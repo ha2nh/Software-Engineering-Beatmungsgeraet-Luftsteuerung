@@ -16,10 +16,21 @@
 [Traceabilty-Matrix](/docs/TraceabilityMatrix.pdf)
 
 ## Software Design 
-
+**Attribute**
+- Luftzufuhr
+- Luftmengeauswahl
+  
+**Methoden**
+- Starten( )
+- Stoppen( )
+- AuswaehlenLuftmenge( )
+- EinstellenLuftmenge( )
+- AnzeigenLuftdruck( )
+- BegrenzenLuftmenge( )
+  
 ## UML-Diagramm
 
 ## Sequenzdiagramm 
 
-## Kommunikatonsdiagramm
+## Kommunikationsdiagramm
 
