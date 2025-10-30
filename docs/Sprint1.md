@@ -56,8 +56,8 @@
 - AnzeigenBenutzungsdauer( )
   
 **Alarm**
-- AnzeigenBenutzungsdauerwarung
-- AnzeigenSollwertueberschreitungsarlam
+- AnzeigenBenutzungsdauerwarung( )
+- AnzeigenSollwertueberschreitungsarlam( )
   
 ## UML-Diagramm
 
