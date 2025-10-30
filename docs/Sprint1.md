@@ -13,7 +13,7 @@
  #### Req 2.4 : Begrenzung der Luftmenge nach Modus 
 
 ## Traceability 
-[Traceabilty-Matrix](/docs/Traceability Matrix.pdf)
+[Traceabilty-Matrix](/docs/TraceabilityMatrix.pdf)
 
 ## Software Design 
 
