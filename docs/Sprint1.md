@@ -13,14 +13,13 @@
  #### Req 2.4 : Begrenzung der Luftmenge nach Modus 
 
 ## Traceability 
-[Traceabilty-Matrix](
+[Traceabilty-Matrix](/docs/Traceability Matrix.pdf)
 
-## Schritt 2: Architektur 
+## Software Design 
 
-## Schritt 3: Design 
+## UML-Diagramm
 
-## Schritt 4: Implementierung  
+## Sequenzdiagramm 
 
-## Schritt 5: Test 
+## Kommunikatonsdiagramm
 
-## Schritt 6: Review & Retro 
