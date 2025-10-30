@@ -16,18 +16,48 @@
 [Traceabilty-Matrix](/docs/TraceabilityMatrix.pdf)
 
 ## Software Design 
-**Attribute**
-
+###Attribute###
+**Luftsteuerung**
 - Luftzufuhr
+**Luftmengeverwaltung**
 - Luftmengeauswahl
+
+**Luftdruckueberwachung**
+- aktuellerLuftdruckwert
+- Luftdrucksollwert
   
-**Methoden**
+**Dauerverwaltung**
+- Atemfrequenz
+- Benutzungsdauerauswahl
+
+**Alarm**
+ - Benutzungsdauerwarung
+ - Sollwertueberschreitungsarlam
+**Luftdrucküberwachung**
+  
+###Methoden###
+**Luftsteuerung**
 - Starten( )
 - Stoppen( )
+
+**Luftmengeverwaltung**
 - AuswaehlenLuftmenge( )
 - EinstellenLuftmenge( )
 - AnzeigenLuftdruck( )
 - BegrenzenLuftmenge( )
+
+**Luftdruckueberwachung**
+- AnzeigenaktuellenLuftdruckwert( )
+- AnzeigenLuftdrucksollwert( )
+  
+**Dauerverwaltung**
+- AnzeigenAtemfrequenz( )
+- Auswahlbenutzungsdauer( )
+- AnzeigenBenutzungsdauer( )
+  
+**Alarm**
+- AnzeigenBenutzungsdauerwarung
+- AnzeigenSollwertueberschreitungsarlam
   
 ## UML-Diagramm
 
