@@ -22,7 +22,7 @@
 - Luftzufuhr
   
 **Luftmengeverwaltung**
-- Luftmengeauswahl
+- Modus
 
 **Luftdruckueberwachung**
 - aktuellerLuftdruckwert
