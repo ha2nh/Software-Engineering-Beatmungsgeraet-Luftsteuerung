@@ -44,7 +44,8 @@
 - Stoppen( )
 
 **Luftmengeverwaltung**
-- Auswaehlen( )
+- Auswaehlen
+- Auswaehlensonstiges( )
 - Einstellen( )
 - AnzeigenLuftdruck( )
 - BegrenzenLuftmenge( )
@@ -60,7 +61,7 @@
   
 **Alarm**
 - AnzeigenBenutzungsdauerwarung( )
-- AnzeigenSollwertueberschreitungsarlam( )
+- AnzeigenSollwertueberschreitungsalarm( )
   
 ## UML-Diagramm
 
