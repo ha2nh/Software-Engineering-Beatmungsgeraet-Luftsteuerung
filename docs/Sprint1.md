@@ -16,7 +16,7 @@
 [Traceabilty-Matrix](/docs/TraceabilityMatrix.pdf)
 
 ## Software Design 
-###Attribute###
+### Attribute
 
 **Luftsteuerung**
 - Luftzufuhr
@@ -37,7 +37,8 @@
  - Sollwertueberschreitungsarlam
 **Luftdrucküberwachung**
   
-###Methoden###
+### Methoden
+
 **Luftsteuerung**
 - Starten( )
 - Stoppen( )
