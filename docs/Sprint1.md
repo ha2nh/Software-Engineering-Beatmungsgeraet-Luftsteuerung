@@ -44,8 +44,8 @@
 - Stoppen( )
 
 **Luftmengeverwaltung**
-- AuswaehlenLuftmenge( )
-- EinstellenLuftmenge( )
+- Auswaehlen( )
+- Einstellen( )
 - AnzeigenLuftdruck( )
 - BegrenzenLuftmenge( )
 
