@@ -64,8 +64,8 @@
 - AnzeigenSollwertueberschreitungsalarm( )
   
 ## UML-Diagramm
-(/docs/UMLDiagramm.pfd)
-## Sequenzdiagramm 
+(/docs/UMLDiagramm.pdf)
+w## Sequenzdiagramm 
 
 ## Kommunikationsdiagramm
 
