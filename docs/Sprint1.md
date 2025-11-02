@@ -65,7 +65,8 @@
   
 ## UML-Diagramm
 [UMl-Diagramm](/docs/UMLDiagramm.pdf)
-w## Sequenzdiagramm 
+
+## Sequenzdiagramm 
 
 ## Kommunikationsdiagramm
 
