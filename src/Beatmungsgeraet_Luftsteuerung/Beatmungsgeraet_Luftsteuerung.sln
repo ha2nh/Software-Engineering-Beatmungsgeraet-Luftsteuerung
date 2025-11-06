@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Beatmungsgeraet_Luftsteuerung", "Beatmungsgeraet_Luftsteuerung\Beatmungsgeraet_Luftsteuerung.vcxproj", "{863F981B-4FCD-4D54-8D7E-222B073F356D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{863F981B-4FCD-4D54-8D7E-222B073F356D}.Debug|x64.ActiveCfg = Debug|x64
+		{863F981B-4FCD-4D54-8D7E-222B073F356D}.Debug|x64.Build.0 = Debug|x64
+		{863F981B-4FCD-4D54-8D7E-222B073F356D}.Debug|x86.ActiveCfg = Debug|Win32
+		{863F981B-4FCD-4D54-8D7E-222B073F356D}.Debug|x86.Build.0 = Debug|Win32
+		{863F981B-4FCD-4D54-8D7E-222B073F356D}.Release|x64.ActiveCfg = Release|x64
+		{863F981B-4FCD-4D54-8D7E-222B073F356D}.Release|x64.Build.0 = Release|x64
+		{863F981B-4FCD-4D54-8D7E-222B073F356D}.Release|x86.ActiveCfg = Release|Win32
+		{863F981B-4FCD-4D54-8D7E-222B073F356D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDB6F4AD-925A-4E52-BA75-F2CEE3FF797A}
+	EndGlobalSection
+EndGlobal
