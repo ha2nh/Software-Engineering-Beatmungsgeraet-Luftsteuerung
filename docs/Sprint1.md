@@ -25,7 +25,6 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
   
 **Methoden**
 - Auswaehlen( )
-- Auswaehlensonstiges( )
 - Einstellen( )
 - AnzeigenLuftdruck( )
 - BegrenzenLuftmenge( )
@@ -37,6 +36,7 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 - Luftdrucksollwert: int
   
 **Methoden**
+- Alarm1( )
 - AnzeigenaktuellenLuftdruckwert( )
 - AnzeigenLuftdrucksollwert( )
 
@@ -46,6 +46,7 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 - Benutzungsdauerauswahl: Enum
   
 **Methoden**
+- Alarm2( )
 - AnzeigenAtemfrequenz( )
 - Auswahlbenutzungsdauer( )
 - AnzeigenBenutzungsdauer( )
