@@ -14,6 +14,9 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
  - Req 2.4 : Begrenzung der Luftmenge nach Modus 
 
 ## Software Design 
+### digitales Display
+**Methoden**
+- allesanzeigen( )
 ### Luftsteuerung 
 **Methoden**
 - Starten( )
