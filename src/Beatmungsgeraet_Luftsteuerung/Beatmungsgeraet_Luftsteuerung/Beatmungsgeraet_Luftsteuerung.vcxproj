@@ -132,8 +132,9 @@
     <ClCompile Include="Luftdruckueberwachung.hpp" />
     <ClCompile Include="Luftmengeverwaltung.cpp" />
     <ClCompile Include="Luftmengeverwaltung.hpp" />
-    <ClCompile Include="Luftsteuererung.cpp" />
+    <ClCompile Include="Luftsteuerung.cpp" />
     <ClCompile Include="Luftsteuerung.hpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Digitales_Display.hpp" />

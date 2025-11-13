@@ -30,9 +30,6 @@
     <ClCompile Include="Alarm.hpp">
       <Filter>Headerdateien</Filter>
     </ClCompile>
-    <ClCompile Include="Luftsteuererung.cpp">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
     <ClCompile Include="Luftmengeverwaltung.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
@@ -46,6 +43,12 @@
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="Digitales_Display.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Luftsteuerung.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
