@@ -14,7 +14,12 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
  - Req 2.4 : Begrenzung der Luftmenge nach Modus 
 
 ## Software Design 
+### Digitales Display
+**Methoden**
+- allesanzeigen( )
 ### Luftsteuerung 
+**Attribute**
+- aktiv
 **Methoden**
 - Starten( )
 - Stoppen( )
@@ -25,11 +30,8 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
   
 **Methoden**
 - Auswaehlen( )
-- Auswaehlensonstiges( )
 - Einstellen( )
 - AnzeigenLuftdruck( )
-- BegrenzenLuftmenge( )
-
 
 ### Luftdruckueberwachung
 **Attribute**
@@ -37,6 +39,7 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 - Luftdrucksollwert: int
   
 **Methoden**
+- Alarm1( )
 - AnzeigenaktuellenLuftdruckwert( )
 - AnzeigenLuftdrucksollwert( )
 
@@ -46,6 +49,7 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 - Benutzungsdauerauswahl: Enum
   
 **Methoden**
+- Alarm2( )
 - AnzeigenAtemfrequenz( )
 - Auswahlbenutzungsdauer( )
 - AnzeigenBenutzungsdauer( )
