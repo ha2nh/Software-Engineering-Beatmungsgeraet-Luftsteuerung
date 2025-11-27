@@ -71,6 +71,7 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 [UMl-Diagramm](/docs/UMLDiagramm.pdf)
 
 ## Sequenzdiagramm 
-
+[Sequenz-Diagramm](/docs/Sequenzdiagramm.png)
 ## Kommunikationsdiagramm
+[Kommunikationsdiagramm](/docs/Kommnunikationsdiagramm.drawio)
 
