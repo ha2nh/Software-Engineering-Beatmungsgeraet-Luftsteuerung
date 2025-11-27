@@ -70,7 +70,7 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 ## Sequenzdiagramm 
 [Sequenz-Diagramm](/docs/Sprint_1/Sequenzdiagramm.png)
 ## Kommunikationsdiagramm
-[Kommunikationsdiagramm](/docs/Sprint_1/Kommunikationsdiagramm.drawio.pdf)
+[Kommunikationsdiagramm](/docs/Sprint_1/Kommukationsdiagramm.drawio.pdf)
 
 ## Retrospektive
 - Abweichungen werden in folgenden Punkten dokumentiert
