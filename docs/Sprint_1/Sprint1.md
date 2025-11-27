@@ -102,3 +102,15 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 ### Kommunikationsdiagramm
 - entsprechende Attribute werden angepasst
 
+### Baseline
+- die dokumentierten Requirements im Sprint 1 wurde umgesetzt
+- das Software Design fuer wurde detailierter (Attribute und Methoden) bearbeitet ( nur fuer die dokumentierten Requirements im Sprint 1)
+- die 3 Diagramme werden anhand der Implementierung ueberbearbeitet
+- alle Testfaelle waren erfolgreich
+
+### Erkenntnisse
+- jeder Klasse genauer bearbeiten, da mögliche zusätzliche Attribute sowie Methoden eingefügt werden
+- 
+
+
+
