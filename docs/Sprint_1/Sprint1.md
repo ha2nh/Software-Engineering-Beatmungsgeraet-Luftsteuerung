@@ -20,6 +20,7 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 ### Luftsteuerung 
 **Attribute**
 - aktiv
+  
 **Methoden**
 - Starten( )
 - Stoppen( )
