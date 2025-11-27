@@ -98,11 +98,11 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 
 ### UML Diagramm
 - entsprechende Attribute werden angepasst
-  [UML-Diagramm](/docs/Sprint_1/UMLDiagramm.drawio(geaerndert).pdf
+- [UML-Diagramm](/docs/Sprint_1/UMLDiagramm.drawio(geaerndert).pdf
 )
 ### Kommunikationsdiagramm
 - entsprechende Attribute werden angepasst
-[Kommunikationsdiagramm](/docs/Sprint_1/Kommukationsdiagramm.drawio(geaerndert).pdf)
+- [Kommunikationsdiagramm](/docs/Sprint_1/Kommukationsdiagramm.drawio(geaerndert).pdf)
 ### Baseline
 - die dokumentierten Requirements im Sprint 1 wurde umgesetzt
 - das Software Design fuer wurde detailierter (Attribute und Methoden) bearbeitet ( nur fuer die dokumentierten Requirements im Sprint 1)
