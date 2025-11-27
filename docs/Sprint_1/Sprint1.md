@@ -18,9 +18,6 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 **Methoden**
 - allesanzeigen( )
 ### Luftsteuerung 
-**Attribute**
-- aktiv
-  
 **Methoden**
 - Starten( )
 - Stoppen( )
@@ -74,4 +71,34 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 [Sequenz-Diagramm](/docs/Sequenzdiagramm.png)
 ## Kommunikationsdiagramm
 [Kommunikationsdiagramm](/docs/Kommukationsdiagramm.drawio.pdf)
+
+## Retrospektive
+- Abweichungen werden in folgenden Punkten dokumentiert
+### Software-Design
+- zusätzliche Attribute werden hinzugefügt
+#### Digitales Display
+**Attribute**
+- static DigitalesDisplay* instance
+- Luftsteuerung steuerung
+- Luftmengeverwaltung menge
+
+#### Luftsteuerung
+**Attribute**
+- aktiv: bool
+  
+**Methoden**
+- bool IstAktiv() const
+- void AnzeigenStatus() const
+  
+#### Luftmengeverwaltung
+**Methoden**
+- void SetModus(Mengenmodus m)
+- Mengenmodus GetModus() const
+- void AnzeigenModus() const
+
+### UML Diagramm
+- entsprechende Attribute werden angepasst
+  
+### Kommunikationsdiagramm
+- entsprechende Attribute werden angepasst
 
