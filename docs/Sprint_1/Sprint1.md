@@ -98,7 +98,8 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 
 ### UML Diagramm
 - entsprechende Attribute werden angepasst
-  [UML-Diagramm](/docs/Sprint_1/UMlDiagramm.drawio()
+  [UML-Diagramm](/docs/Sprint_1/UMLDiagramm.drawio(geaerndert).pdf
+)
 ### Kommunikationsdiagramm
 - entsprechende Attribute werden angepasst
 
