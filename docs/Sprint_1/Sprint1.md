@@ -65,12 +65,12 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 [Traceabilty-Matrix](/docs/TraceabilityMatrix.pdf)
 
 ## UML-Diagramm
-[UMl-Diagramm](/docs/UMLDiagramm.pdf)
+[UMl-Diagrammd](/docs/Sprint_1/UMLdiagramm.drawio.pdf)
 
 ## Sequenzdiagramm 
-[Sequenz-Diagramm](/docs/Sequenzdiagramm.png)
+[Sequenz-Diagramm](/docs/Sprint_1/Sequenzdiagramm.png)
 ## Kommunikationsdiagramm
-[Kommunikationsdiagramm](/docs/Kommukationsdiagramm.drawio.pdf)
+[Kommunikationsdiagramm](/docs/Sprint_1/Kommunikationsdiagramm.drawio.pdf)
 
 ## Retrospektive
 - Abweichungen werden in folgenden Punkten dokumentiert
