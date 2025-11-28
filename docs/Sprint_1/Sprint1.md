@@ -111,7 +111,7 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 
 ### Erkenntnisse
 - jeder Klasse genauer bearbeiten, da mögliche zusätzliche Attribute sowie Methoden eingefügt werden
-- die Implementierung werde ich genauer im Sprint 2 bearbeiten, damit ich den Ablauf ywischen verschiedene Klassen anschauen kann
+- die Implementierung werde ich genauer im Sprint 2 bearbeiten, damit ich den Ablauf zwischen verschiedene Klassen anschauen kann
 - die Methoden (Visuale Studio, Git Bash, ZenUML und draw.io) werde ich weiterhin verwenden
 
 
