@@ -42,6 +42,15 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 - Abweichungen werden in folgenden Punkten dokumentiert
 ### Software-Design
 - zusätzliche Attribute werden hinzugefügt
+#### Luftueberwachung
+**Methoden**
+- getLuftqualitaet() const: int
+- anzeigenLuftqualitaet (): void
+
+#### Dauerverwaltung
+**Methoden**
+- getDauer() : int
+- AnzeigenDauer() : void
 
 ### UML Diagramm
 - entsprechende Attribute werden angepasst
@@ -50,14 +59,14 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 - entsprechende Attribute werden angepasst
 - [Kommunikationsdiagramm](/docs/Sprint_2/Kommukationsdiagramm.drawio(geaerndert2).pdf)
 ### Baseline
-- die dokumentierten Requirements im Sprint 1 wurde umgesetzt
-- das Software Design fuer wurde detailierter (Attribute und Methoden) bearbeitet ( nur fuer die dokumentierten Requirements im Sprint 1)
-- die 3 Diagramme werden anhand der Implementierung ueberbearbeitet
+- die dokumentierten Requirements im Sprint 2 wurde umgesetzt
+- das Software Design fuer wurde detailierter (Attribute und Methoden) bearbeitet ( nur fuer die dokumentierten Requirements im Sprint 2)
+- die 2 Diagramme (UML- & Kommunikationsdiagramm) werden anhand der Implementierung ueberbearbeitet
 - alle Testfaelle waren erfolgreich
 
 ### Erkenntnisse
 - jeder Klasse genauer bearbeiten, da mögliche zusätzliche Attribute sowie Methoden eingefügt werden
-- die Implementierung werde ich genauer im Sprint 2 bearbeiten, damit ich den Ablauf zwischen verschiedene Klassen anschauen kann
+- die Implementierung werde ich genauer im Sprint 3 bearbeiten, damit ich den Ablauf zwischen verschiedene Klassen anschauen kann
 - die Methoden (Visuale Studio, Git Bash, ZenUML und draw.io) werde ich weiterhin verwenden
 
 
