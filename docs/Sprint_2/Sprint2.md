@@ -44,8 +44,8 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 - zusätzliche Attribute werden hinzugefügt
 #### Luftueberwachung
 **Methoden**
-- getLuftqualitaet() const: int
-- anzeigenLuftqualitaet (): void
+- SetAktuellenLuftdruckwert(): int
+- SetLuftdrucksollwert(): void
 
 #### Dauerverwaltung
 **Methoden**
