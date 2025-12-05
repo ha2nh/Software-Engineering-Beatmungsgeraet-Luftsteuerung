@@ -22,9 +22,9 @@ protected:
   // Klasse
   Luftsteuerung steuerung;
   Luftmengeverwaltung menge;
-  /*Luftdruckueberwachung druck;
+  Luftdruckueberwachung druck;
   Dauerverwaltung dauer;
-  Alarm alarm;*/
+  // Alarm alarm;
 
 public:
   // Zugriff auf die einzige Instanz
