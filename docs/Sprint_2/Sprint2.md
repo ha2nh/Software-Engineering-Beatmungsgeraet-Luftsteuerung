@@ -33,7 +33,7 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 [Traceabilty-Matrix](/docs/TraceabilityMatrix.pdf)
 
 ## UML-Diagramm 
-[UMl-Diagrammd](/docs/Sprint_1/UMLDiagramm.pdf)
+[UMl-Diagramm](/docs/Sprint_1/UMLDiagramm.pdf)
 
 ## Kommunikationsdiagramm
 [Kommunikationsdiagramm](/docs/Sprint_1/Kommukationsdiagramm.drawio.pdf)
