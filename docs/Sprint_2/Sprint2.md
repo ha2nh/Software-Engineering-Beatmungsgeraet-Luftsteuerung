@@ -41,6 +41,9 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 ## Kommunikationsdiagramm
 [Kommunikationsdiagramm](/docs/Sprint_1/Kommukationsdiagramm.drawio.pdf)
 
+## Testergebnis 
+
+
 ## Retrospektive
 - Abweichungen werden in folgenden Punkten dokumentiert
 ### Software-Design
