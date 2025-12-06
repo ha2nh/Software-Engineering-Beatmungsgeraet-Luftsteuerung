@@ -33,7 +33,7 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 [Traceabilty-Matrix](/docs/TraceabilityMatrix.pdf)
 
 ## Software-Architektur
-[Software-Architektur](/docs/System Komponenten .pdf)
+[Software-Architektur](/docs/Architektur.pdf)
 
 ## UML-Diagramm 
 [UMl-Diagramm](/docs/Sprint_1/UMLDiagramm.pdf)
