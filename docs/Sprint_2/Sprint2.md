@@ -75,7 +75,7 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 - die dokumentierten Requirements im Sprint 2 wurde umgesetzt
 - das Software Design fuer wurde detailierter (Attribute und Methoden) bearbeitet ( nur fuer die dokumentierten Requirements im Sprint 2)
 - die 2 Diagramme (UML- & Kommunikationsdiagramm) werden anhand der Implementierung ueberbearbeitet
-- alle Testfaelle waren erfolgreich
+- fast alle Testfaelle waren erfolgreich, nur 2 Testfalle werden erst erfolgreich, wenn ich die Klasse Alarm im Sprint 3 implemetiere
 
 ### Erkenntnisse
 - jeder Klasse genauer bearbeiten, da mögliche zusätzliche Attribute sowie Methoden eingefügt werden
