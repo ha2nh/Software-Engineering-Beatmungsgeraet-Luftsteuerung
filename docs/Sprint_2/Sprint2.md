@@ -42,7 +42,14 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 [Kommunikationsdiagramm](/docs/Sprint_1/Kommukationsdiagramm.drawio.pdf)
 
 ## Testergebnis 
-
+|   ID     |     Testergebnis     |
+| :------: | :-------------------:|
+|    MT4   | PASS -> true |
+|    MT5   | PASS -> true |
+|    MT6   | PASS -> Ausgabe == 12 | 
+|    IT4   | FAILED (Klasse Alarm wurde noch nicht implementiert) |
+|    IT5   | PASS -> Startmeldung erscheint |
+|    IT6   | FAILED (Klasse Alarm wurde noch nicht implementiert) |
 
 ## Retrospektive
 - Abweichungen werden in folgenden Punkten dokumentiert
