@@ -63,14 +63,13 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 #### Dauerverwaltung
 **Methoden**
 - getDauer() : int
-- AnzeigenDauer() : void
 
 ### UML Diagramm
 - entsprechende Attribute werden angepasst
-- [UML-Diagramm](/docs/Sprint_2/UMLDiagramm.drawio(geaerndert2).pdf)
+- [UML-Diagramm](/docs/Sprint_2/UMLDiagramm.drawio(geaendert2).pdf)
 ### Kommunikationsdiagramm
 - entsprechende Attribute werden angepasst
-- [Kommunikationsdiagramm](/docs/Sprint_2/Kommukationsdiagramm.drawio(geaerndert2).pdf)
+- [Kommunikationsdiagramm](/docs/Sprint_2/Kommukationsdiagramm.drawio(geaendert2).pdf)
 ### Baseline
 - die dokumentierten Requirements im Sprint 2 wurde umgesetzt
 - das Software Design fuer wurde detailierter (Attribute und Methoden) bearbeitet ( nur fuer die dokumentierten Requirements im Sprint 2)
