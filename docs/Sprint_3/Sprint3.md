@@ -10,8 +10,12 @@ Im letzten Sprint soll das Software-Design für die letzten Requirements fertig 
 ## Software Design
 ### Alarm
 **Attribute**
-
+- Benutzungsdauerwarnung: int
+- Sollwertueberschreitungsarlam: bool
+   
 **Methoden**
+- AnzeigenBenutzungsdauerwarung( )
+- AnzeigenSollwertueberschreitungsalarm( )
 
 ## Traceability 
 [Traceabilty-Matrix](/docs/TraceabilityMatrix.pdf)
@@ -39,28 +43,22 @@ Im letzten Sprint soll das Software-Design für die letzten Requirements fertig 
 - Abweichungen werden in folgenden Punkten dokumentiert
 ### Software-Design
 - zusätzliche Attribute werden hinzugefügt
-#### Luftueberwachung
+#### Alarm
 **Methoden**
-- SetAktuellenLuftdruckwert(): int
-- SetLuftdrucksollwert(): void
-
-#### Dauerverwaltung
-**Methoden**
-- getDauer() : int
 
 ### UML Diagramm
 - entsprechende Attribute werden angepasst
-- [UML-Diagramm](/docs/Sprint_2/UMLDiagramm.drawio(geaendert2).pdf)
+- [UML-Diagramm](/docs/Sprint_3/UMLDiagramm.drawio(geaendert3).pdf)
 ### Kommunikationsdiagramm
 - entsprechende Attribute werden angepasst
-- [Kommunikationsdiagramm](/docs/Sprint_2/Kommukationsdiagramm.drawio(geaendert2).pdf)
+- [Kommunikationsdiagramm](/docs/Sprint_3/Kommukationsdiagramm.drawio(geaendert3).pdf)
 ### Baseline
-- die dokumentierten Requirements im Sprint 2 wurde umgesetzt
-- das Software Design fuer wurde detailierter (Attribute und Methoden) bearbeitet ( nur fuer die dokumentierten Requirements im Sprint 2)
-- die 2 Diagramme (UML- & Kommunikationsdiagramm) werden anhand der Implementierung ueberbearbeitet
+- die dokumentierten Requirements im Sprint 3 wurde umgesetzt
+- das Software Design im Sprint 3 wurde detailierter (Attribute und Methoden) bearbeitet und somit wurde komplett fertig verbessert und ueberbearbeitet 
+- die 2 Diagramme (UML- & Kommunikationsdiagramm) werden anhand der Implementierung fertig ueberbearbeitet
 - fast alle Testfaelle waren erfolgreich, nur 2 Testfalle werden erst erfolgreich, wenn ich die Klasse Alarm im Sprint 3 implemetiere
 
 ### Erkenntnisse
-- jeder Klasse genauer bearbeiten, da mögliche zusätzliche Attribute sowie Methoden eingefügt werden
-- die Implementierung werde ich genauer im Sprint 3 bearbeiten, damit ich den Ablauf zwischen verschiedene Klassen anschauen kann
-- die Methoden (Visuale Studio, Git Bash, ZenUML und draw.io) werde ich weiterhin verwenden
+- ich werde darauf beachten, dass ich fuer die Bearbeitung der Attribute und Methoden jeder Klasse immer genau anschaue und sicherstellen muss, dass keine Attibute sowie Methode fehlen
+- es gab immer wiedr Fehlerauftritt waehrend des Prozess aber habe die Probleme erfolgreich behoben
+- die Methoden (Visuale Studio, Git Bash, ZenUML und draw.io) werde ich weiterhin verwenden, da ich die Tools sehr weiterempfehle
