@@ -2,32 +2,16 @@
 Im letzten Sprint soll das Software-Design für die letzten Requirements fertig überarbeitet wird, und somit ist das Software-Design komplett fertig, das Klassen- und Kommunikationsdiagram wird ebenfalls komplett fertig überarbeitet. Die untergegebenen Requirements sollen umgesetzt werden, um die restliche Funktionalität der Luftsteuerung zu erreichen, somit bin ich fertig mit dem Thema! Hierfür werden folgende Punkte genannt.
 
 ## Folgende Requirements sind zum Bearbeiten 
-- Reg 5.1: Überwachung des Luftdrucks
-- Reg 5.2: Anzeige der aktuellen Luftmenge
-- Reg 4.1: Einstellung der Benutzungsdauer
-- Reg 4.2: Abgabe der Luft in Atemrhythmus
+- Reg 0.5: Reaktionszeit <= 1s
+- Reg 0.6: Alarmtext rot auf Display
+- Reg 5.1: Alarm bei hohem/niedrigem Druck
+- Reg 5.2: Alarm 15 min vom Zeitablauf
 
 ## Software Design
-### Luftdruckueberwachung
+### Alarm
 **Attribute**
-- aktuellerLuftdruckwert: int
-- Luftdrucksollwert: int
-  
-**Methoden**
-- Alarm1( )
-- AnzeigenaktuellenLuftdruckwert( )
-- AnzeigenLuftdrucksollwert( )
 
-### Dauerverwaltung
-**Attribute**
-- Atemfrequenz: int
-- Benutzungsdauerauswahl: Enum
-  
 **Methoden**
-- Alarm2( )
-- AnzeigenAtemfrequenz( )
-- Auswahlbenutzungsdauer( )
-- AnzeigenBenutzungsdauer( )
 
 ## Traceability 
 [Traceabilty-Matrix](/docs/TraceabilityMatrix.pdf)
