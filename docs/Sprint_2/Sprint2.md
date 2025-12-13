@@ -45,10 +45,10 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 |   ID     |     Testergebnis     |
 | :------: | :-------------------:|
 |    MT4   | PASS -> true |
-|    MT5   | PASS -> true |
+|    MT5   | PASS -> true (MT-01 & MT-02 durchgeführt) |
 |    MT6   | PASS -> Ausgabe == 12 | 
 |    IT4   | FAILED (Klasse Alarm wurde noch nicht implementiert) |
-|    IT5   | PASS -> Startmeldung erscheint |
+|    IT5   | PASS -> Startmeldung erscheint (IT1 & IT2 durchgeführt) |
 |    IT6   | FAILED (Klasse Alarm wurde noch nicht implementiert) |
 
 ## Retrospektive
