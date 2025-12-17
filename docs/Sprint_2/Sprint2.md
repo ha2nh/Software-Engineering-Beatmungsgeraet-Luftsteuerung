@@ -64,7 +64,7 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 #### Luftueberwachung
 **Methoden**
 - SetAktuellenLuftdruckwert(): int
-- SetLuftdrucksollwert(): void
+- SetLuftdrucksollwert(): bool
 
 #### Dauerverwaltung
 **Methoden**
