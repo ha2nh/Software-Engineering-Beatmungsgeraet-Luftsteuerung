@@ -44,6 +44,10 @@ Im letzten Sprint soll das Software-Design für die letzten Requirements fertig 
 |    IT4   | FAILED (Klasse Alarm wurde noch nicht implementiert) |
 |    IT5   | PASS -> Startmeldung erscheint |
 |    IT6   | FAILED (Klasse Alarm wurde noch nicht implementiert) |
+|    MT7   | PASS |
+|    MT8   | PASS |
+|    MT9   | PASS |
+
 
 
 ## Retrospektive
