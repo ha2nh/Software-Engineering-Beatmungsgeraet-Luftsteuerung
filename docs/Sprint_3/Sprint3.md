@@ -47,6 +47,10 @@ Im letzten Sprint soll das Software-Design für die letzten Requirements fertig 
 |    MT7   | PASS |
 |    MT8   | PASS |
 |    MT9   | PASS |
+|    IT7   | PASS |
+|    IT8   | PASS |
+|    IT9   | PASS |
+
 
 
 
