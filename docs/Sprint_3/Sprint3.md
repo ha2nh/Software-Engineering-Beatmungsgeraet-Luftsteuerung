@@ -42,7 +42,18 @@ Im letzten Sprint soll das Software-Design für die letzten Requirements fertig 
 ## Retrospektive
 - Abweichungen werden in folgenden Punkten dokumentiert
 ### Software-Design
-- zusätzliche Attribute werden hinzugefügt
+- zusätzliche Attribute für alle Klasse werden hinzugefügt
+#### Digitales Display
+**integrierte Attibute**
+- Luftsteuerung steuerung
+- Luftmengeverwaltung menge
+- Dauerverwaltung dauer
+- Luftdruckueberwachung druck
+
+**Methoden**
+- void Benutzereinstellung()
+
+####
 #### Alarm
 **Methoden**
 
