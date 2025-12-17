@@ -53,10 +53,24 @@ Im letzten Sprint soll das Software-Design für die letzten Requirements fertig 
 **Methoden**
 - void Benutzereinstellung()
 
-####
+#### Luftmengeverwaltung
+**Methoden**
+- void auswaehlen()
+
+#### Dauerverwaltung
+**Methoden**
+- enum class Benutzungsdauer {
+  Min60 = 60,
+  Min180 = 180,
+  Min360 = 360
+};
+
 #### Alarm
 **Methoden**
+- void setBenutzungsdauerwarnung(int wert);
+- void setSollwertueberschreitungsalarm(bool status);
 
+  
 ### UML Diagramm
 - entsprechende Attribute werden angepasst
 - [UML-Diagramm](/docs/Sprint_3/UMLDiagramm.drawio(geaendert3).pdf)
