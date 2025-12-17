@@ -32,12 +32,19 @@ Im letzten Sprint soll das Software-Design für die letzten Requirements fertig 
 ## Testergebnis 
 |   ID     |     Testergebnis     |
 | :------: | :-------------------:|
+|    MT1   | PASS |
+|    MT2   | PASS |
+|    MT3   | PASS | 
+|    IT1   | PASS |
+|    IT2   | PASS |
+|    IT3   | PASS |
 |    MT4   | PASS -> true |
 |    MT5   | PASS -> true |
 |    MT6   | PASS -> Ausgabe == 12 | 
 |    IT4   | FAILED (Klasse Alarm wurde noch nicht implementiert) |
 |    IT5   | PASS -> Startmeldung erscheint |
 |    IT6   | FAILED (Klasse Alarm wurde noch nicht implementiert) |
+
 
 ## Retrospektive
 - Abweichungen werden in folgenden Punkten dokumentiert
