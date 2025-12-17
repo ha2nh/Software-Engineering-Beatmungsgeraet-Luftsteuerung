@@ -44,6 +44,12 @@ Im zweiten Sprint soll das Software-Design für die bearbeiteten Requirements ü
 ## Testergebnis 
 |   ID     |     Testergebnis     |
 | :------: | :-------------------:|
+|    MT1   | PASS |
+|    MT2   | PASS |
+|    MT3   | PASS | 
+|    IT1   | PASS |
+|    IT2   | PASS |
+|    IT3   | PASS |
 |    MT4   | PASS -> true |
 |    MT5   | PASS -> true (MT-01 & MT-02 durchgeführt) |
 |    MT6   | PASS -> Ausgabe == 12 | 
