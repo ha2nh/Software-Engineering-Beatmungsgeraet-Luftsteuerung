@@ -72,6 +72,16 @@ Im ersten Sprint soll das grundlegende Software-Design erstellt werden und in Fo
 ## Kommunikationsdiagramm
 [Kommunikationsdiagramm](/docs/Sprint_1/Kommukationsdiagramm.drawio.pdf)
 
+## Testergebnis
+|   ID     |     Testergebnis     |
+| :------: | :-------------------:|
+|    MT1   | PASS |
+|    MT2   | PASS |
+|    MT3   | PASS | 
+|    IT1   | PASS |
+|    IT2   | PASS |
+|    IT3   | PASS |
+
 ## Retrospektive
 - Abweichungen werden in folgenden Punkten dokumentiert
 ### Software-Design
