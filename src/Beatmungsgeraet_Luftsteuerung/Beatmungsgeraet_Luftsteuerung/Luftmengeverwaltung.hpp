@@ -1,26 +1,29 @@
 #ifndef LUFTMENGEVERWALTUNG_HPP
 #define LUFTMENGEVERWALTUNG_HPP
 
-#include<iostream>
-using namespace std;
+#include <iostream>
 
+enum class Mengenmodus_ {
+  Wohnbereich,
+  Arbeitsbereich
+};
 
 class Luftmengeverwaltung {
-
-public:
-  enum Mengenmodus_ { Wohnbereich, Arbeitbereich }; 
-  Luftmengeverwaltung(Mengenmodus_ m); // Konstruktor
-  ~Luftmengeverwaltung() {}; // Dekonstruktor
-
-protected:
+private:
   Mengenmodus_ modus;
 
-public: 
+public:
+  Luftmengeverwaltung();                // Default-Konstruktor (wichtig!)
+  Luftmengeverwaltung(Mengenmodus_ m);  // Konstruktor mit Modus
+  ~Luftmengeverwaltung() = default;
 
-// Mehtoden
-  void auswaehlen();                        //Benutzer waehlt Modus aus
-  void einstellen();                        // Einstellungen anwenden
-  void anzeigenLuftdruck() const;           // Aktuellen Modus anzeigen
+  // Methoden
+  void auswaehlen();             // Benutzer w‰hlt Modus
+  void einstellen();             // Einstellungen anwenden
+  void AnzeigenLuftdruck() const; // Aktuellen Modus anzeigen (Groﬂ/klein korrigiert)
 
+  // Optionaler Getter
+  Mengenmodus_ getModus() const { return modus; }
 };
+
 #endif

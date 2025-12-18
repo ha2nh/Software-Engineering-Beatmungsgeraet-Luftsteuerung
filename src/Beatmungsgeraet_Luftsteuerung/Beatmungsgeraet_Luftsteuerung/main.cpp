@@ -1,9 +1,14 @@
-#include "Digitales_Display.hpp";
+#include "Digitales_Display.hpp"
+#include <iostream>
 
+using namespace std;
 
-int main() {
-  // Zugriff auf die einzige Instanz
+int main()
+{
   Digitales_Display* display = Digitales_Display::getInstance();
+
+  // Benutzer konfiguriert zuerst alles
+  display->BenutzerEinstellungen();
 
   // System starten
   display->SystemStarten();
@@ -13,11 +18,6 @@ int main() {
 
   // System stoppen
   display->SystemStoppen();
-  
-  // Versucht, eine zweite Insatnz zu erstellen (geht nicht)
-  Digitales_Display* display2 = Digitales_Display::getInstance();
-  if (display == display2) {
-    cout << "Es existiert nur eine einzige Display-Instanz (Singelton bestätigt)\n";
-  }
+
   return 0;
 }

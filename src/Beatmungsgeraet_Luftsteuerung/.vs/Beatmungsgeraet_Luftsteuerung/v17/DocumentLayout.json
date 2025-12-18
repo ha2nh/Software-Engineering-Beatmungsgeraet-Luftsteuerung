@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Digitales_Display.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Digitales_Display.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Dauerverwaltung.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,12 +15,44 @@
       "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Dauerverwaltung.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Digitales_Display.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Digitales_Display.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Digitales_Display.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Digitales_Display.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Alarm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Alarm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Alarm.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Alarm.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{863F981B-4FCD-4D54-8D7E-222B073F356D}|Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung.vcxproj|solutionrelative:Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,34 +62,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Digitales_Display.hpp",
               "DocumentMoniker": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Digitales_Display.hpp",
               "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Digitales_Display.hpp",
               "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Digitales_Display.hpp",
               "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Digitales_Display.hpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-06T18:20:15.222Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Digitales_Display.cpp",
               "DocumentMoniker": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Digitales_Display.cpp",
               "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Digitales_Display.cpp",
               "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Digitales_Display.cpp",
               "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Digitales_Display.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-06T18:23:29.678Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alarm.cpp",
+              "DocumentMoniker": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Alarm.cpp",
+              "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Alarm.cpp",
+              "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Alarm.cpp",
+              "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Alarm.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-13T08:28:39.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alarm.hpp",
+              "DocumentMoniker": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Alarm.hpp",
+              "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Alarm.hpp",
+              "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Alarm.hpp",
+              "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Alarm.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-13T08:26:09.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Luftdruckueberwachung.hpp",
+              "DocumentMoniker": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.hpp",
+              "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.hpp",
+              "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.hpp",
+              "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T13:02:36.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Luftdruckueberwachung.cpp",
+              "DocumentMoniker": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.cpp",
+              "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.cpp",
+              "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.cpp",
+              "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Luftdruckueberwachung.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T13:02:29.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Luftmengeverwaltung.hpp",
+              "DocumentMoniker": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.hpp",
+              "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.hpp",
+              "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.hpp",
+              "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T13:02:34.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Luftmengeverwaltung.cpp",
+              "DocumentMoniker": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.cpp",
+              "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.cpp",
+              "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.cpp",
+              "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Luftmengeverwaltung.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T13:02:30.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Luftsteuerung.hpp",
+              "DocumentMoniker": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.hpp",
+              "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.hpp",
+              "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.hpp",
+              "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T13:02:33.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Luftsteuerung.cpp",
+              "DocumentMoniker": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.cpp",
+              "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.cpp",
+              "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.cpp",
+              "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Luftsteuerung.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T13:02:31.609Z"
             },
             {
               "$type": "Document",
@@ -67,10 +195,9 @@
               "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Dauerverwaltung.cpp",
               "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Dauerverwaltung.cpp",
               "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Dauerverwaltung.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-03T23:29:46.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T23:29:46.026Z"
             },
             {
               "$type": "Document",
@@ -80,23 +207,21 @@
               "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\Dauerverwaltung.hpp",
               "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\Dauerverwaltung.hpp",
               "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\Dauerverwaltung.hpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-03T23:29:44.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T23:29:44.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\main.cpp",
               "RelativeDocumentMoniker": "Beatmungsgeraet_Luftsteuerung\\main.cpp",
               "ToolTip": "C:\\Users\\Ha Anh\\Documents\\THD\\Semester_3\\Software Engineering\\Software-Engineering-Beatmungsgeraet-Luftsteuerung\\src\\Beatmungsgeraet_Luftsteuerung\\Beatmungsgeraet_Luftsteuerung\\main.cpp",
               "RelativeToolTip": "Beatmungsgeraet_Luftsteuerung\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-13T22:37:44.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T22:37:44.057Z"
             }
           ]
         }

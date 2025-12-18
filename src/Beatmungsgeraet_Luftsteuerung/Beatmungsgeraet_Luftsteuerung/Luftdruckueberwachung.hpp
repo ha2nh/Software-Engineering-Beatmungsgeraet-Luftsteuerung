@@ -1,24 +1,26 @@
-#ifndef LUFTDRUCKUEBERWACHUNG_HPP
+﻿#ifndef LUFTDRUCKUEBERWACHUNG_HPP
 #define LUFTDRUCKUEBERWACHUNG_HPP
 
 #include <iostream>
 
 class Luftdruckueberwachung {
-protected:
-  int aktuellerLuftdruckwert;
-  int LuftdruckSollwert;
+private:
+  int aktuellerLuftdruckwert;  // gemessener Wert
+  int LuftdruckSollwert;       // gültiger Bereich: 15–20 mbar
 
 public:
   Luftdruckueberwachung();
 
-  void AnzeigenaktuellenLuftdruckwert();
-  void AnzeigenLuftdrucksollwert();
+  // Anzeigen-Methoden (ändern nichts → const)
+  void AnzeigenaktuellenLuftdruckwert() const;
+  void AnzeigenLuftdrucksollwert() const;
 
+  // Setter
   void setAktuellenLuftdruckwert(int wert);
   bool setLuftdrucksollwert(int wert);
 
-  bool Alarm1(); // true =  Soll ueberschritten
-
+  // Alarmprüfung
+  bool Alarm1() const;
 };
 
 #endif

@@ -1,23 +1,18 @@
 #ifndef LUFTSTEUERUNG_HPP
 #define LUFTSTEUERUNG_HPP
 
-#include<iostream>
-
+#include <iostream>
 
 class Luftsteuerung {
-protected:
+private:
   bool aktiv;
 
 public:
-  Luftsteuerung() ; // Konstruktor
+  Luftsteuerung();
 
-  ~Luftsteuerung() {}; // Dekonstruktor 
-
- // Methoden
   void Starten();
   void Stoppen();
   void AnzeigenStatus() const;
-  bool istAktiv() const { return aktiv; }
 };
 
 #endif

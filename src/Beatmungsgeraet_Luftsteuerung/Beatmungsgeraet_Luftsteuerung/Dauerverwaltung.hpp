@@ -19,12 +19,12 @@ protected:
 public:
   Dauerverwaltung();
 
-  void AnzeigenAtemfrequenz();
-  void AuswahlBentzungsdauer(int auswahl);
-  void AnzeigenBentzungsdauer();
+  void AnzeigenAtemfrequenz() const ;
+  void AuswahlBenutzungsdauer(int auswahl);
+  void AnzeigenBenutzungsdauer() const;
 
   // Getter
-  Benutzungsdauer getBenutzungsdauer() {
+  Benutzungsdauer getBenutzungsdauer() const {
     return benutzungsdauer;
   }; // inline
 };

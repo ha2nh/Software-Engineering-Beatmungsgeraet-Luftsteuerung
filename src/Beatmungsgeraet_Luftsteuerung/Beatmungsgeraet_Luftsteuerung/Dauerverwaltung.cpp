@@ -2,6 +2,10 @@
 
 using namespace std;
 
+// Farben
+const string RED = "\033[31m";
+const string RESET = "\033[0m";
+
 // Konstruktor: initialwerte setzen
 Dauerverwaltung::Dauerverwaltung()
   : Atemfrequenz(12), // Beispielwert (12 Atemzuege/min)
@@ -9,12 +13,12 @@ Dauerverwaltung::Dauerverwaltung()
 { }
 
 // Atemfrequenz ausgeben
-void Dauerverwaltung::AnzeigenAtemfrequenz() {
+void Dauerverwaltung::AnzeigenAtemfrequenz() const {
   cout << "Atemfrequenz: " << Atemfrequenz << " Atemzuege/min \n";
 }
 
 // Auswahl der Dauer ( 1 = 60, 2 = 180, 3 = 360)
-void Dauerverwaltung::AuswahlBentzungsdauer(int auswahl) {
+void Dauerverwaltung::AuswahlBenutzungsdauer(int auswahl) {
   switch (auswahl) 
   {
   case 1:
@@ -27,19 +31,19 @@ void Dauerverwaltung::AuswahlBentzungsdauer(int auswahl) {
     benutzungsdauer = Benutzungsdauer::Min360;
     break;
   default:
-    cout << "Ungueltige Dauer-Auswahl!\n";
+    cout << RED << "Ungueltige Dauer-Auswahl!" << RESET << endl;
     break;
   }
 }
 
 // Ausgabe der gewaehlten Dauer
-void Dauerverwaltung::AnzeigenBentzungsdauer() {
+void Dauerverwaltung::AnzeigenBenutzungsdauer() const {
   cout << "Benutzungsdauer: "
     << static_cast<int>(benutzungsdauer)
     << " Minuten\n";
 }
 
-
+// alarm.setBenutzungsdauerwarnung(180);
 
 
 

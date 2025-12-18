@@ -1,7 +1,13 @@
 #include "Luftsteuerung.hpp"
+#include <iostream>
+
 using namespace std;
 
-Luftsteuerung::Luftsteuerung() : aktiv(false)
+const string RED = "\033[31m";
+const string RESET = "\033[0m";
+
+Luftsteuerung::Luftsteuerung()
+  : aktiv(false)
 {
 }
 
@@ -9,10 +15,10 @@ void Luftsteuerung::Starten()
 {
   if (!aktiv) {
     aktiv = true;
-    cout << "Luftsteuerung gestartet\n";
+    cout << "Luftsteuerung gestartet.\n";
   }
   else {
-    cout << "Luftsteuerung läuft bereits.\n";
+    cout << RED << "Fehler: Luftsteuerung läuft bereits!" << RESET << endl;
   }
 }
 
@@ -23,21 +29,18 @@ void Luftsteuerung::Stoppen()
     cout << "Luftsteuerung gestoppt.\n";
   }
   else {
-    cout << "Luftsteuerung ist bereits gestoppt.\n";
+    cout << RED << "Fehler: Luftsteuerung ist bereits gestoppt!" << RESET << endl;
   }
 }
 
 void Luftsteuerung::AnzeigenStatus() const
 {
-  cout << "Luftsteuerung Status: ";
+  cout << "Luftsteuerungs-Status: ";
 
-  if (!aktiv) {
-    cout << "AKTIV";
+  if (aktiv) {
+    cout << "AKTIV\n";
   }
   else {
-    cout << "INAKTIV";
+    cout << RED << "INAKTIV" << RESET << "\n";
   }
 }
-
-
-

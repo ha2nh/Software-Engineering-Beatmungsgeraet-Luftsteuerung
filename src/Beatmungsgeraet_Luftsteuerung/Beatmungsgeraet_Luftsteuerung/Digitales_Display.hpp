@@ -1,39 +1,41 @@
 #ifndef DIGITALES_DISPLAY_HPP
 #define DIGITALES_DISPLAY_HPP
 
-#include<iostream>
-#include "Luftsteuerung.hpp";
-#include "Luftmengeverwaltung.hpp";
-#include "Luftdruckueberwachung.hpp";
-#include "Dauerverwaltung.hpp";
-#include "Alarm.hpp";
-
+#include <iostream>
+#include "Luftsteuerung.hpp"
+#include "Luftmengeverwaltung.hpp"
+#include "Luftdruckueberwachung.hpp"
+#include "Dauerverwaltung.hpp"
+#include "Alarm.hpp"
 
 class Digitales_Display {
 protected:
-  // Single Instance
+  // Singleton Instanz
   static Digitales_Display* instance;
-  Digitales_Display() {}; // Konstruktor
+  Digitales_Display(); // Konstruktor in cpp definiert
 
-  //nicht kopierbar
+  // Nicht kopierbar
   Digitales_Display(const Digitales_Display&) = delete;
   Digitales_Display& operator=(const Digitales_Display&) = delete;
 
-  // Klasse
+  // Module
   Luftsteuerung steuerung;
   Luftmengeverwaltung menge;
   Luftdruckueberwachung druck;
   Dauerverwaltung dauer;
-  // Alarm alarm;
+  Alarm alarm;
 
 public:
-  // Zugriff auf die einzige Instanz
+
+  void BenutzerEinstellungen();
+
+  // Singleton Zugriff
   static Digitales_Display* getInstance();
 
-  //Methoden
+  // Methoden
   void allesanzeigen();
   void SystemStarten() { steuerung.Starten(); }
   void SystemStoppen() { steuerung.Stoppen(); }
-
 };
+
 #endif
